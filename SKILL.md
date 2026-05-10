@@ -1,3 +1,9 @@
+---
+name: "finreport-distill-skill"
+description: "从金融分析报告中提炼写作风格和分析框架，生成可复用的风格Skill。"
+---
+
+
 # 金融报告风格蒸馏 Skill (Finance Report Style Distillation)
 
 > **版本**: 1.0.0
