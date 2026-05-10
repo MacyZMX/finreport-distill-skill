@@ -23,7 +23,7 @@
 ## 文件说明
 
 ```
-finance-report-skill/
+finreport-distill-skill/
 ├── SKILL.md                          # 核心 Skill 文件
 │   ├── 四阶段流水线（初始化→六维扫描→提炼→构建）
 │   ├── 三重验证提炼法
